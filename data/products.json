@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "sea-thrift",
+    "name": "Sea Thrift",
+    "latin": "Armeria maritima",
+    "category": "Flowers",
+    "price": 14,
+    "shape": "flower",
+    "color": "var(--deep)",
+    "bg": "var(--sky-soft)",
+    "blurb": "Tight cushions of grassy leaves and round pom-pom blooms.",
+    "description": "Sea thrift grows where little else will: cliff ledges, salt spray, thin gravelly soil. It forms neat evergreen tufts and sends up papery globe flowers from late spring into summer. Plant it along a path edge or tuck it into a rock wall.",
+    "details": ["Full sun", "Drought tolerant once settled", "Grows 15–20 cm tall", "Ships in a 9 cm pot"]
+  },
+  {
+    "slug": "sweet-alyssum",
+    "name": "Sweet Alyssum",
+    "latin": "Lobularia maritima",
+    "category": "Flowers",
+    "price": 9,
+    "shape": "scallop",
+    "color": "var(--olive)",
+    "bg": "var(--sage-soft)",
+    "blurb": "Low clouds of tiny honey-scented white flowers.",
+    "description": "The white froth you see spilling over coastal paths. Sweet alyssum flowers for months, smells faintly of honey and pulls in hoverflies and bees. Lovely at the front of a border or in a window box.",
+    "details": ["Sun to part shade", "Self-seeds gently", "Grows 10 cm tall", "Ships as a 6-pack of plugs"]
+  },
+  {
+    "slug": "coastal-sage",
+    "name": "Coastal Sage",
+    "latin": "Salvia officinalis",
+    "category": "Herbs",
+    "price": 12,
+    "shape": "clover",
+    "color": "var(--olive)",
+    "bg": "var(--sky-soft)",
+    "blurb": "Soft silver-green leaves that shrug off wind and salt.",
+    "description": "A hardy culinary sage selected for exposed gardens. Velvety leaves, purple-blue summer spikes and a compact habit that stays tidy in a pot. Pick leaves all year.",
+    "details": ["Full sun", "Well-drained soil", "Grows 40 cm tall", "Ships in a 1 L pot"]
+  },
+  {
+    "slug": "lambs-ear",
+    "name": "Lamb's Ear",
+    "latin": "Stachys byzantina",
+    "category": "Herbs",
+    "price": 11,
+    "shape": "pill",
+    "color": "var(--mist)",
+    "bg": "var(--sage-soft)",
+    "blurb": "Felted grey leaves you will want to touch every time.",
+    "description": "Thick, woolly leaves form a silver mat that spreads slowly and suppresses weeds. A favourite with children and pollinators alike, and very forgiving in poor soil.",
+    "details": ["Full sun", "Spreads to 60 cm", "Grows 30 cm tall", "Ships in a 9 cm pot"]
+  },
+  {
+    "slug": "beach-rose",
+    "name": "Beach Rose",
+    "latin": "Rosa rugosa",
+    "category": "Shrubs",
+    "price": 28,
+    "shape": "burst",
+    "color": "var(--peach)",
+    "bg": "var(--sky-soft)",
+    "blurb": "Tough, fragrant and covered in big hips by autumn.",
+    "description": "The classic dune rose. Crinkled leaves, single open flowers with a strong clove scent and tomato-red hips in autumn. Makes a dense, salt-proof hedge.",
+    "details": ["Full sun", "Salt and wind tolerant", "Grows 1.5 m tall", "Ships bare-root"]
+  },
+  {
+    "slug": "bayberry",
+    "name": "Bayberry",
+    "latin": "Myrica pensylvanica",
+    "category": "Shrubs",
+    "price": 24,
+    "shape": "arch",
+    "color": "var(--deep)",
+    "bg": "var(--sage-soft)",
+    "blurb": "Aromatic leaves and waxy grey-blue winter berries.",
+    "description": "A semi-evergreen shrub for sandy, salty sites. Crush a leaf for a clean resinous scent. Female plants carry clusters of waxy berries that birds love through winter.",
+    "details": ["Sun to part shade", "Fixes its own nitrogen", "Grows 1.8 m tall", "Ships in a 2 L pot"]
+  }
+]

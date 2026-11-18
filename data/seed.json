@@ -1,0 +1,9 @@
+{
+  "cart": [
+    { "slug": "sea-thrift", "qty": 2 },
+    { "slug": "coastal-sage", "qty": 1 }
+  ],
+  "subscribers": [],
+  "messages": [],
+  "signins": []
+}

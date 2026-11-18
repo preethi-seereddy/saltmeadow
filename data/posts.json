@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "tending-a-salt-garden",
+    "title": "Tending a salt garden",
+    "tag": "Guides",
+    "date": "October 12, 2026",
+    "readTime": "6 min read",
+    "shape": "arch",
+    "color": "var(--sage)",
+    "bg": "var(--sky-soft)",
+    "excerpt": "What we have learned from ten years of growing on a windy headland, and the plants that never let us down."
+  },
+  {
+    "slug": "the-quiet-bloom-of-alyssum",
+    "title": "The quiet bloom of sweet alyssum",
+    "tag": "Field notes",
+    "date": "September 28, 2026",
+    "readTime": "4 min read",
+    "shape": "scallop",
+    "color": "var(--mist)",
+    "bg": "var(--sage-soft)",
+    "excerpt": "A small white flower that carries a whole coastline in its scent. Notes from a September walk."
+  },
+  {
+    "slug": "five-herbs-for-a-windy-balcony",
+    "title": "Five herbs for a windy balcony",
+    "tag": "Guides",
+    "date": "September 9, 2026",
+    "readTime": "5 min read",
+    "shape": "clover",
+    "color": "var(--olive)",
+    "bg": "var(--sky-soft)",
+    "excerpt": "Short, sturdy and full of flavour. These are the herbs that stay put when the gusts come in."
+  },
+  {
+    "slug": "notes-from-the-headland",
+    "title": "Notes from the headland",
+    "tag": "Stories",
+    "date": "August 21, 2026",
+    "readTime": "3 min read",
+    "shape": "sparkle",
+    "color": "var(--deep)",
+    "bg": "var(--sage-soft)",
+    "excerpt": "Evening light, cold tea and a notebook. A short diary from the end of summer."
+  }
+]
