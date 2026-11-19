@@ -1,0 +1,12 @@
+/* Parity overrides — reviewed styling changes */
+.ha-arch { color: #C7D7E5 !important; }
+.ha-flower { color: #A7B69A !important; }
+.hero .eyebrow { color: #6B7F6B !important; }
+.hero h1 { font-family: 'Fraunces', Georgia, serif !important; }
+.hero h1 { font-size: 64px !important; }
+.hero h1 { color: #4D6A7A !important; }
+.hero .lead { font-size: 19px !important; }
+.hero .btn-primary { background-color: #6B7F6B !important; }
+.hero-actions { gap: 14px !important; }
+.hero-actions { margin-top: 32px !important; }
+.hero .btn-secondary { border-radius: 999px !important; }
