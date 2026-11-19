@@ -1,3 +1,4 @@
+import './parity-87c44c8a-09ad-454e-b3aa-bc6f51afed8c.css';
 // Front-end behaviour for the live site: filters, cart and forms.
 (function () {
   const toastEl = document.querySelector('[data-toast]');
